@@ -1,0 +1,20 @@
+﻿# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+
+# Visual Studio
+.vs/
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Build outputs
+artifacts/
+TestResults/
+
+DIST/EvoOptimizer.App.exe
